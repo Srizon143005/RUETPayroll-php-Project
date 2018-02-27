@@ -1,0 +1,48 @@
+@font-face {
+    font-family: Acme-Regular;
+    src: url('../fonts/Own_Fonts/Acme-Regular.ttf');
+}
+
+@font-face {
+    font-family: Aladin-Regular;
+    src: url('../fonts/Own_Fonts/Aladin-Regular.ttf');
+}
+
+@font-face {
+    font-family: Alice-Regular;
+    src: url('../fonts/Own_Fonts/Alice-Regular.ttf');
+}
+
+@font-face {
+    font-family: Amarante-Regular;
+    src: url('../fonts/Own_Fonts/Amarante-Regular.ttf');
+}
+
+@font-face {
+    font-family: AmstelvarAlpha-VF;
+    src: url('../fonts/Own_Fonts/AmstelvarAlpha-VF.ttf');
+}
+
+.Acme-Regular {
+    font-family: Acme-Regular;
+    font-size: 13pt;
+}
+
+.Aladin-Regular{
+    font-family: Aladin-Regular;
+    font-size: 15pt;
+}
+
+.Alice-Regular{
+    font-family: Alice-Regular;
+    font-size: 12pt;
+}
+
+.Amarante-Regular{
+    font-family: Amarante-Regular;
+    font-size: 14pt;
+}
+
+.AmstelvarAlpha-VF{
+    font-family: AmstelvarAlpha-VF;
+}

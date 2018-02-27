@@ -1,0 +1,7 @@
+.decoration{
+    color: white;
+}
+.decoration:hover{
+    color: lightgreen;
+    text-decoration: none;
+}
